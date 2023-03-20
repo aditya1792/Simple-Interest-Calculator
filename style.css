@@ -1,0 +1,13 @@
+body {background-color:red;}
+h1{color:grey;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+.maindiv{
+    background-color: yellow;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
